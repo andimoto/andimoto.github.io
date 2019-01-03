@@ -1,0 +1,18 @@
+---
+layout: default
+title:  "Technical Entry"
+date:   2019-01-03 14:36:18 +0100
+categories: tech
+---
+{% include image.html url="../../../../img/aacam.png" description="Me" %}
+---
+
+{% highlight c %}
+int main(void)
+{
+    printf("Hello World!!");
+    return 0;
+}
+{% endhighlight %}
+---
+
