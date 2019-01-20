@@ -4,6 +4,20 @@ title:  "Tech"
 date:   2019-01-03 14:38:18 +0100
 categories: tech
 ---
-{% include image.html url="../../../../img/pcb.jpg" %}
+![pcb-macro](/img/pcb.jpg)
 ---
+# Tech-Posts!
+---
+<br>
+
+{% for category in site.categories %}
+  <ul>
+    {% if category[0] == "tech" %}
+        {% for post in category[1] %}
+            <li><a href="{{ post.url }}">{{ post.title }}</a></li>
+        {% endfor %}
+    {% endif %}
+  </ul>
+{% endfor %}
+
 

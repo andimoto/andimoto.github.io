@@ -4,7 +4,7 @@ title:  "About me..."
 date:   2019-01-02 19:33:18 +0100
 categories: about
 ---
-{% include image.html url="../../../../img/aacam.png" description="Me" %}
+![Me](/img/aacam.png)
 
 Hi I'm Andi.
 My interests are:

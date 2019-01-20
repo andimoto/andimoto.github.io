@@ -1,12 +1,11 @@
 ---
 layout: default
-title:  "Technical Entry"
+title:  "Hello World!"
 date:   2019-01-03 14:36:18 +0100
 categories: tech
 ---
-{% include image.html url="../../../../img/aacam.png" description="Me" %}
----
 
+### **Playground Post ...**
 {% highlight c %}
 int main(void)
 {
@@ -14,5 +13,5 @@ int main(void)
     return 0;
 }
 {% endhighlight %}
----
+
 
