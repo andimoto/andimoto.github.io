@@ -16,7 +16,7 @@ categories: travel
   <ul>
     {% if category[0] == "travel" %}
         {% for post in category[1] %}
-            <li><a href="{{ post.url }}">{{ post.title }}</a></li>
+            <li>{{ post.date | date: "%Y-%m-%d" }} :: <a href="{{ post.url }}">{{ post.title }}</a> </li>
         {% endfor %}
     {% endif %}
   </ul>

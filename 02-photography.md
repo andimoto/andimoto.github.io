@@ -14,7 +14,7 @@ On this page you will find all posts about photography.
   <ul>
     {% if category[0] == "photography" %}
         {% for post in category[1] %}
-            <li><a href="{{ post.url }}">{{ post.title }}</a></li>
+            <li>{{ post.date | date: "%Y-%m-%d" }} :: <a href="{{ post.url }}">{{ post.title }}</a> </li>
         {% endfor %}
     {% endif %}
   </ul>

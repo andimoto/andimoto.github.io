@@ -9,15 +9,16 @@ categories: about
 Hi I'm Andi.
 My interests are:
 - Computers & Embedded Systems
-    - mainly Cortex-Mx MCUs
+    - Linux, RPi, etc.
+    - Cortex-Mx MCUs
 - Photography
     - Digital & Analog
     - Landscape & Macro
-    - Manual Lenses
+    - Lens-Stuff
 - Cycling
 - Motorcycling
 
-### This site is under construction...
+### This site is always under construction...
 
 ---
 

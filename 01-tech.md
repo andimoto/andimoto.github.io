@@ -14,7 +14,7 @@ categories: tech
   <ul>
     {% if category[0] == "tech" %}
         {% for post in category[1] %}
-            <li><a href="{{ post.url }}">{{ post.title }}</a></li>
+            <li>{{ post.date | date: "%Y-%m-%d" }} :: <a href="{{ post.url }}">{{ post.title }}</a> </li>
         {% endfor %}
     {% endif %}
   </ul>
