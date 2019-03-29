@@ -6,7 +6,8 @@ categories: photography
 ---
 ![kiev88](/img/kiev88.jpg)
 ---
-On this page you will find all posts about photography.
+
+__P :: H :: O :: T :: O :: G :: R :: A :: P :: H :: Y__
 
 ---
 <br>
