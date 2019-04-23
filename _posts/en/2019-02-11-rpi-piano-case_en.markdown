@@ -1,6 +1,6 @@
 ---
 layout: default
-title:  "3D printed case for Raspberry Pi & Allo Piano 2.2 DAC"
+title:  "3D printed case for Raspberry Pi & Allo Piano 2.2 DAC | [en]"
 date:   2019-02-11 21:45:18 +0100
 categories: tech
 ---

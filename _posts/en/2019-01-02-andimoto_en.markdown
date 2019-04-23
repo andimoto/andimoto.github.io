@@ -1,6 +1,6 @@
 ---
 layout: default
-title:  "Hello World!"
+title:  Hello World!  |  [en]
 date:   2019-01-03 14:36:18 +0100
 categories: tech
 ---

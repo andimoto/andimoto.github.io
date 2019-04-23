@@ -1,6 +1,6 @@
 ---
 layout: default
-title:  "Kiev 88"
+title:  "Kiev 88 | [en]"
 date:   2019-01-03 14:36:18 +0100
 categories: photography
 ---
