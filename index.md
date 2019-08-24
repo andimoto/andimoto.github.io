@@ -5,3 +5,6 @@
 layout: home
 
 ---
+
+
+![CAD Case](/img/banner_index.jpg)
