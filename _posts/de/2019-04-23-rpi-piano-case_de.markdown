@@ -2,7 +2,7 @@
 layout: default
 title:  "3D gedrucktes Gehäuse für Raspberry Pi & Allo Piano 2.2 DAC | [de]"
 date:   2019-04-23
-categories: tech, de
+categories: tech
 ---
 
 
