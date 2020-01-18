@@ -11,7 +11,7 @@ categories: photography
 ---
 
 <br>
-## Prequel
+## Prologue
 
 Soon after I started photographing in 2016 I noticed some realy cool features of mirror-less cameras.
 One of the coolest is focus-peaking. In manual focus mode the camera tells you which parts of your current section
