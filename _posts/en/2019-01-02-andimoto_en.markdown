@@ -1,7 +1,7 @@
 ---
 layout: default
-title:  Hello World!  |  [en]
-date:   2019-01-03 14:36:18 +0100
+title:  Hello World!  |  [de]
+date:   0000-01-01 
 categories: tech
 ---
 
