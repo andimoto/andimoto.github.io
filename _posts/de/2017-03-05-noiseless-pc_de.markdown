@@ -28,7 +28,7 @@ Mit der Zeit kam dann wieder die Idee einen lüfterlosen Rechner aufzubauen. Das
 
 &nbsp;
 <h1>Zusammenbau</h1>
-Der Zusammenbau war etwas komplizierter als bei einem normalen PC. Ist aber trotzdem recht gut zu meistern. Der schwere Teil liegt natürlich an den Heatpipes und der Wärmeleitpaste. Hierbei war es für mich auch relativ schwer zu bestimmen, wie viel Paste ich überhaupt auftragen soll. Dazu habe ich von den Plastikverpackungen etwas abgeschnitten und als Spachtel verwendet. Dabei habe ich versucht möglichst alle Kontaktflächen der Heatpipes zu CPU und Gehäuse lückenlos zu bedecken. Ich denke es reicht hierbei die Flächen so zu bedecken, dass die Schicht nicht zu dick ist, aber man die Oberfläche gerade nicht mehr sieht. Beim zusammenführen der Kontaktflächen ist auch sehr wenig Paste am Rand heraus gequellt. Das ist für mich allerdings eher ein subjektiver Eindruck und jeder sollte das selbst entscheiden. Ansonsten sollte der Zusammenbau nach Anleitung des Gehäuses, bzw. des Teils (RAM, CPU, usw) durchgeführt werden.
+Der Zusammenbau war etwas komplizierter als bei einem normalen PC, ist aber trotzdem recht gut zu meistern. Der schwere Teil liegt natürlich an den Heatpipes und der Wärmeleitpaste. Hierbei war es für mich auch relativ schwer zu bestimmen, wie viel Paste ich überhaupt auftragen soll. Dazu habe ich von den Plastikverpackungen etwas abgeschnitten und als Spachtel verwendet. Dabei habe ich versucht möglichst alle Kontaktflächen der Heatpipes zu CPU und Gehäuse lückenlos zu bedecken. Ich denke es reicht hierbei die Flächen so zu bedecken, dass die Schicht nicht zu dick ist, aber man die Oberfläche gerade nicht mehr sieht. Beim zusammenführen der Kontaktflächen ist auch sehr wenig Paste am Rand heraus gequellt. Das ist für mich allerdings eher ein subjektiver Eindruck und jeder sollte das selbst entscheiden. Ansonsten sollte der Zusammenbau nach Anleitung des Gehäuses, bzw. des Teils (RAM, CPU, usw) durchgeführt werden.
 
 Bei meiner Konfiguration des Gehäuses mit Mainboard und M.2 SSD sind mir dann auch gewisse Schwachstellen aufgefallen. Ich habe das Betriebssystem auf die M.2 SDD installiert, welche unter dem Mainboard hängt. Sollte hier etwas ausfallen komme ich sehr schlecht an diese SDD heran. Dazu wäre es nötig die Heatpipes abzunehmen und das Mainboard auszubauen. Durch die Wärmeleitpaste kann das eine unangenehme Arbeit werden. Das sollte aber niemanden abschrecken. Das kommt natürlich auch darauf an ob man nun die M.2 SDD verbaut oder das Mainboard überhaupt einen Slot dafür besitzt. Wer nicht so viel Speicher benötigt dem reicht auch eine oder mehrere normale SDDs / HDDs. Hier würde noch eine SSD in den Schacht des CD Laufwerks passen wenn man einen passenden Adapter dafür verwendet.
 
@@ -48,7 +48,9 @@ Noch etwas zum Arbeitsspeicher. Zu Beginn habe ich einen 16GB Riegel bestellt. W
 &nbsp;
 ![Build-up Noiseless-PC](/img/noiseless-pc/004.jpg)
 &nbsp;
-![Build-up Noiseless-PC](/img/noiseless-pc/005.jpg)
+![Build-up Noiseless-PC](/img/noiseless-pc/009.jpg)
+&nbsp;
+![Build-up Noiseless-PC](/img/noiseless-pc/010.jpg)
 <br>
 
 &nbsp;
@@ -59,8 +61,6 @@ Die Installation von Linux Mint 18 lief extrem schnell durch, was man den schnel
 
 Die Wärmeentwicklung stellt überhaupt kein Problem dar. Im BIOS wurden mir immer um 40°C angezeigt. Das Betriebssystem zeigt mir nun im "Leerlauf" ca. 35°C an. "Leerlauf" ist hier - die üblichen Hintergrundprozesse, Firefox, Thunderbird, Terminal und Dateimanager. Wenn ich meine Bilder mit Darktable bearbeite, werden mir ca. 50°C bis 55°C angezeigt. Sobald ich einige Bilder dann konvertiere steigt die Wärme auf ca 70°C an und erhöht sich stetig je nach Dauer der Belastung. Dabei muss ich erwähnen, dass Darktable alle Kerne beansprucht. Das ist z.B. bei Videos nicht der Fall. Dabei hatte ich noch nie Probleme mit der Wärme. Die Kühlrippen werden nach so einer Belastung sehr Warm aber man kann sie noch anfassen. Sorgen mache ich mir hierbei eher weniger. Die CPU hat interne Mechanismen, welche bei Übertemperatur ab regeln oder ausschalten.
 
-***Update 2020:***
-Es gibt 12cm PC Lüfter welche über USB versorgt werden und mit einem Schalter ein- und ausgeschaltet werden können. So einen habe ich neben die Kühlrippen gestellt. Die Hitze an den Kühlrippen wurde mir, vor allem beim Konvertieren sehr vieler Bilder, etwas zu heiß. Der Lüfter schafft hier eine gute Abhilfe. Für die mittlerweile wenigen male, die ich den Lüfter einschalten muss ist das ein guter Kompromiss bzw. Workaround dazu, einen Lüfter dauerhaft einzubauen. 
 
 &nbsp;
 <h4>Die Daten auf einen Blick:</h4>
@@ -73,7 +73,8 @@ Es gibt 12cm PC Lüfter welche über USB versorgt werden und mit einem Schalter 
 | RAM | 2x Crucial CT16G4DFD8213 DDR4-2133 | ca. 2x 80€ |
 | SSD (OS) | Samsung 850 Evo M.2 2280 500GB | ca. 180€ |
 | SSD (Data) | Samsung 750 Evo 2.5" SATA 500 GB | ca. 135€ |
-
+|            |                                  |          |
+| Grafikkarte | Asus GeForce GT 1030 | ca. 90€ Juni 2020 |
 
 <h1>Auswahl</h1>
 <h4>Case</h4>
@@ -91,3 +92,42 @@ Passend zur Leistung der Hardware sollten auch schnelle SSDs eingebaut werden. D
 <h2>Alternative Hardware</h2>
 Drückt man die Ansprüche an die Leistung & Kapazität der Hardware weiter runter, wäre es möglich so einen lüfter- und lärmlosen PC für weniger €uros zu bekommen. Abstriche kann man zum Beispiel bei Mainboard und CPU machen. Für ein relativ angenehmes Arbeiten reichen schon 8GB RAM. Die Kapazität kann man locker auf 100-250GB runter schrauben. Das reicht normalerweise aus. Alternativ könnte man normale 2,5" HDDs verwenden. Aber das lärmt dann wieder etwas :). Ausgerechnet habe ich mal einen Gesamtpreis von 400-450€. Die Hardwareauswahl dieser Alternative habe ich am HP ProLiant angelehnt. Auf dem lasse ich ein OpenMediaVault NAS System laufen und eine Linux VM ist auch kein Problem. Ausgewählt habe ich zum Beispiel eine Celeron G1840 CPU (Sockel 1151) für ca. 40-50€. Ein ASRock H81M-ITX Mainboard für ca 60€, 2x4GB RAM für insgesamt ca. 60€ und eine SSD mit 120GB für rund 50€. Hinzu kommen noch ca. 200€ für Case und Netzteil. Durch eine geringere Leistung des Netzteil kann man noch etwas sparen. Ein guter Preis wenn man bedenkt was halbwegs brauchbare Barebones und Laptops kosten.
 
+&nbsp;
+
+***Update 2019:***
+<br>
+Es gibt 12cm PC Lüfter welche über USB versorgt werden und mit einem Schalter ein- und ausgeschaltet werden können. So einen habe ich neben die Kühlrippen gestellt. Die Hitze an den Kühlrippen wurde mir, vor allem beim Konvertieren sehr vieler Bilder, etwas zu heiß. Der Lüfter schafft hier eine gute Abhilfe. Für die mittlerweile wenigen male, die ich den Lüfter einschalten muss ist das ein guter Kompromiss bzw. Workaround gegenüber einem dauerhaft eingebauten Lüfter.
+
+<br>
+![graka001](/img/noiseless-pc/g000.jpg)
+&nbsp;
+
+***Update 2020:***
+<br>
+Ich habe das coolste Spiel entdeckt! Kerbal Space Programm. Ich habe es anfangs auf meinem Laptop gespielt. Dieser hat mit einem Core i5-8265U eine neuere CPU, welche einen besseren Grafikchip besitzt. Damit läuft das Spiel relativ gut. Die Framerate liegt zwischen 13 bis 20 Frames. Natürlich nicht viel, aber noch gut spielbar. Auf meinem Noiseless PC ging das nicht mehr. Der Grafikchip des i7-6700 hat einfach keine Power (der Grafikchip wird mit 350MHz getacktet). Die Framrate lag unter der des Laptops und ich konnte das Spiel nur in einem Fenster halbwegs akzeptabel spielen. Das wollte ich nicht so lassen.
+
+Ich hatte 2 zwei Möglichkeiten:
+1. Das Case und das Motherboard haben einen freien PCI Slot. Hier passt eine Grafikkarte rein.
+2. Ein neuer Rechner, welchen ich nur zum Spielen verwende.
+
+Das Thema Linux und Nvidea Grafikkarten bereitete mir etwas Sorgen, da ich bisher keine guten Erfahrungen damit hatte. Im nachhinein war der Grund dafür unbedeutend. Zum einen hatte ein Rechner (auf welchen ich vor Jahren mal Linux Mint installierte) eine alte GeForce, welche von den Treibern nicht unterstützt wurde. Zum anderen hat mein alter Laptop eine dieser Hybrid-Grafikkarten (Intel & NVidea). Hier läuft das mit den Treibern komplett anders. Ich musste die günstigere Variante mit der Grafikkarte mindesten Versuchen.
+
+Nach etwas Suche entschied ich mich für eine Asus GeForce GT 1030. Lediglich der Kühler würde nicht richtig passen. Aber eine Grafikkarte mit passivem Kühler und als 1 Slot Ausführung gab es nicht. Die Installation lief (zu meiner Überraschung) ohne Probleme über die Bühne. Die Grafikkarte eingebaut und den PC gestartet. Den Monitor habe ich am DisplayPort des Mainboards angeschoßen gelassen. Nach dem Start von Linux mit 19.3 meldete sich direkt die Treiberverwaltung, welche die neue Grafikkarte erkannt hat. Man bekommt hier direkt mögliche Treiber angezeigt. Ich habe direkt den aktuellsten nvidia-driver(-440) installiert. Nach einem Neustart war alles eingerichtet. Die Grafikkarte wurde bereits verwendet. Den Monitor konnte ich am DisplayPort hängen lassen.
+
+Leider ist das ganze noch nicht perfekt. Der Kühler der Grafikkarte schaut über den Rand des Gehäuses raus. Ich kann also das Gehäuse nicht zu machen. Der Kühler muss kleiner werden... Dazu mehr in den nächsten Tagen.
+
+Kerbal Space Program läuft nun auf voller Auflösung (3840 x 2160) und etwas herunter geschraubten Spiele-Details. Die Temperatur hält sich in Grnezen. Im Leerlauf liegt die Temperatur der Grafikkarte bei ca. 30°C. Während des Spiels werden es 70-75°C. Mehr habe ich bisher nicht erlebt.
+
+Hätte ich mich dazu entscheiden keine Grafikkarte in meinen PC zu bauen, würde ich auf einen Ryzen mit Vega Grafikchip zurück greifen. Ein ca. 2 Jahre alter Ryzen 3 2200 ermöglicht schon eine anständige Framerate von weit mehr als 30 Frames. Das wäre eine sehr gute Alternative für mich.
+
+Hier noch ein paar Bilder:
+
+<br>
+![graka001](/img/noiseless-pc/g001.jpg)
+&nbsp;
+![graka001](/img/noiseless-pc/g002.jpg)
+&nbsp;
+![graka001](/img/noiseless-pc/g003.jpg)
+&nbsp;
+![graka001](/img/noiseless-pc/g004.jpg)
+&nbsp;
