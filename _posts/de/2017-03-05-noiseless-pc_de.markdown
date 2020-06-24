@@ -114,9 +114,11 @@ Das Thema Linux und Nvidea Grafikkarten bereitete mir etwas Sorgen, da ich bishe
 
 Nach etwas Suche entschied ich mich für eine Asus GeForce GT 1030. Lediglich der Kühler würde nicht richtig passen. Aber eine Grafikkarte mit passivem Kühler und als 1 Slot Ausführung gab es nicht. Die Installation lief (zu meiner Überraschung) ohne Probleme über die Bühne. Die Grafikkarte eingebaut und den PC gestartet. Den Monitor habe ich am DisplayPort des Mainboards angeschoßen gelassen. Nach dem Start von Linux mit 19.3 meldete sich direkt die Treiberverwaltung, welche die neue Grafikkarte erkannt hat. Man bekommt hier direkt mögliche Treiber angezeigt. Ich habe direkt den aktuellsten nvidia-driver(-440) installiert. Nach einem Neustart war alles eingerichtet. Die Grafikkarte wurde bereits verwendet. Den Monitor konnte ich am DisplayPort hängen lassen.
 
-Leider ist das ganze noch nicht perfekt. Der Kühler der Grafikkarte schaut über den Rand des Gehäuses raus. Ich kann also das Gehäuse nicht zu machen. Der Kühler muss kleiner werden... Dazu mehr in den nächsten Tagen.
-
 Kerbal Space Program läuft nun auf voller Auflösung (3840 x 2160) und etwas herunter geschraubten Spiele-Details. Die Temperatur hält sich in Grnezen. Im Leerlauf liegt die Temperatur der Grafikkarte bei ca. 30°C. Während des Spiels werden es 70-75°C. Mehr habe ich bisher nicht erlebt.
+
+Leider ist das ganze noch nicht perfekt. Der Kühler der Grafikkarte schaut über den Rand des Gehäuses raus. Ich kann also das Gehäuse nicht zu machen. Der Kühler muss kleiner werden. Dazu habe ich den Kühler abfrässen lassen. Das ging durch die relativ dünnen Kühlrippen nur sehr schwer, wie man auf einem der Bilder sieht. Die Kühlrippen sind teilweise stark verbogen oder sind ganz abgebrochen. Um die verkürzten Kühlrippen auszugleichen, habe ich auf die Innenseite des Gehäusedeckels ein paar Wärmeleitpads angebracht. Ich habe die Höhe des Kühlkörpers so berechnet, dass dieser direkt über die Wärmeleitpads am Gehäuse anliegt. Die Wärmeleitpads kleben nicht am Gehäuse, sondern haften nur relativ schwach daran.
+
+Nachdem schließen des Gehäusedeckels habe ich den PC gleich gestartet. Die Temperatur des Grafikchips pendelt sich nach dem Start im Leerlauf bei ca. 30°C ein. Nach einigen Minuten Kerbal Space Program stieg die Temperatur langsam in Richtung 70°C und höher. Das Gehäuse hat die Wärme abgeführt. Es wird sehr warm an der Seite. Aber der verkürzte Kühlkörper hat natürlich einen recht großen Einfluß auf die nun höhere Temperatur.
 
 Hätte ich mich dazu entscheiden keine Grafikkarte in meinen PC zu bauen, würde ich auf einen Ryzen mit Vega Grafikchip zurück greifen. Ein ca. 2 Jahre alter Ryzen 3 2200 ermöglicht schon eine anständige Framerate von weit mehr als 30 Frames. Das wäre eine sehr gute Alternative für mich.
 
@@ -131,3 +133,6 @@ Hier noch ein paar Bilder:
 &nbsp;
 ![graka001](/img/noiseless-pc/g004.jpg)
 &nbsp;
+![graka001](/img/noiseless-pc/g005.jpg)
+&nbsp;
+![Thermal Pads](/img/noiseless-pc/g006.jpg)
