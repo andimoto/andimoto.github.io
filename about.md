@@ -11,12 +11,14 @@ My interests are:
 - Computers & Embedded Systems
     - Linux, RPi, etc.
     - Cortex-Mx MCUs
+- 3D printing
+  - Designing with OpenSCAD
 - Photography
     - Digital & Analog
     - Landscape & Macro
     - Lens-Stuff
 - Cycling
-- Motorcycling
+
 
 ### This site is always under construction...
 
@@ -30,4 +32,3 @@ int main(void)
 }
 {% endhighlight %}
 ---
-
