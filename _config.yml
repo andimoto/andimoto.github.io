@@ -16,7 +16,7 @@
 title: andimoto
 email: andimoto@posteo.de
 description: >- # this means to ignore newlines until "baseurl:"
-  Hi, this is my Github page. Here you find some tech, photography & travel articles.
+  Hi, this is my Github page. Here you find some tech, photography & travel articles. This is only a hobby blog for fun.
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "www.andimoto.de" # the base hostname & protocol for your site, e.g. http://example.com
 github_username:  andimoto
